@@ -3,6 +3,7 @@
 To analyze Blinkit sales data and build an interactive dashboard that provides insights into outlet performance, product categories, and customer trends for better business decision-making.
 ## Dataset Used
 - <a herf="https://github.com/aadyashamajhi84-dotcom/Retail-Sales-Analytics-Dashboard/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx">Dataset</a>
+
 ## 🗂️ Dataset Information
 
 # The dataset includes:
@@ -19,11 +20,11 @@ Data Cleaning & Transformation
 Data Visualization
 # ⚙️ Project Workflow
 # 1. Data Collection
-Imported raw retail dataset
+Imported raw retail dataset.
 # 2. Data Cleaning
 Removed duplicates and null values
 Standardized category labels
-Ensured correct data types
+Ensured correct data types.
 # 3. Data Transformation
 Created calculated metrics:
 Total Sales
@@ -35,9 +36,9 @@ Built interactive filters:
 Outlet Size
 Location Tier
 Item Type
-Designed KPI cards and visual components
+Designed KPI cards and visual components.
 ## 📊 Dashboard Features
-- Dashboard Interaction <a herf="https://github.com/aadyashamajhi84-dotcom/Retail-Sales-Analytics-Dashboard/blob/main/Screenshot%202026-05-02%20160102.png">View Dashboard</a>
+- Dashboard Interaction <a herf=" https://github.com/aadyashamajhi84-dotcom/Retail-Sales-Analytics-Dashboard/blob/main/Screenshot%202026-05-02%20160102.png" >View Dashboard</a>
 # KPI Metrics:
 💰 Total Sales: $1.20M
 📦 Total Items: 8523
