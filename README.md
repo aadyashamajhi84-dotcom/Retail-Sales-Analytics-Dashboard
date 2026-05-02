@@ -1,2 +1,3 @@
-# Retail-Sales-Analytics-Dashboard
-I developed an interactive sales dashboard using advance Excel built to analyze retail data across different outlet types, sizes, and locations. It provides actionable insights into sales trends, product performance, and customer preferences.
+# Blinkit-Sales-Analysis-Dashboard(Interactive Dashboard creation using MS Excel)
+## Project Objective
+To analyze Blinkit sales data and build an interactive dashboard that provides insights into outlet performance, product categories, and customer trends for better business decision-making.
