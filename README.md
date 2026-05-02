@@ -14,7 +14,7 @@ Outlet Location (Tier 1, Tier 2, Tier 3)
 Sales Amount
 Customer Ratings
 ## 🛠️ Tools & Technologies
-Microsoft Excel / Power BI
+Microsoft Excel 
 Data Cleaning & Transformation
 Data Visualization
 ## ⚙️ Project Workflow
