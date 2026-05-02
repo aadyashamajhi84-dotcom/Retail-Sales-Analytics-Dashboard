@@ -13,11 +13,11 @@ Outlet Size (Small, Medium, High)
 Outlet Location (Tier 1, Tier 2, Tier 3)
 Sales Amount
 Customer Ratings
-## 🛠️ Tools & Technologies
-Microsoft Excel 
+# 🛠️ Tools & Technologies
+Microsoft Excel, 
 Data Cleaning & Transformation
 Data Visualization
-## ⚙️ Project Workflow
+# ⚙️ Project Workflow
 # 1. Data Collection
 Imported raw retail dataset
 # 2. Data Cleaning
@@ -49,7 +49,7 @@ Fat content distribution
 Item category performance
 Outlet size analysis
 Location-based sales comparison
-## 🔍 Key Insights
+# 🔍 Key Insights
 Tier 3 outlets generate the highest revenue
 High-size outlets contribute the most sales
 Fruits & Vegetables lead in product category sales
